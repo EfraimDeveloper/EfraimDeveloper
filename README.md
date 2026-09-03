@@ -1,4 +1,5 @@
-<img width="900" height="600" alt="Logo -full" src="https://github.com/user-attachments/assets/69c09550-4971-4c7b-9b0a-de3dfc93807b" />
+<img width="288" height="140" alt="LogoA4s" src="https://github.com/user-attachments/assets/434893f7-5476-4484-a474-cb38c581dccf" />
+
 
 
  
