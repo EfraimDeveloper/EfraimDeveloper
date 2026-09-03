@@ -1,4 +1,7 @@
-# 👋 Olá, eu sou Efraim Luís Marcelino
+<img width="406" height="142" alt="Logo -full" src="https://github.com/user-attachments/assets/23dfc0e3-59f7-4ccf-b11a-1540c36a19c5" />
+
+ 
+ Efraim Luís Marcelino
 
 ### Full Stack Developer | C# | .NET | PHP | React
 
