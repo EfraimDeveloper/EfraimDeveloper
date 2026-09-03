@@ -1,4 +1,5 @@
-<img width="406" height="142" alt="Logo -full" src="https://github.com/user-attachments/assets/af3d165f-8c3d-4aa3-b03a-2765d7fa79db" />
+<img width="900" height="600" alt="Logo -full" src="https://github.com/user-attachments/assets/69c09550-4971-4c7b-9b0a-de3dfc93807b" />
+
 
  
  Efraim Luís Marcelino
